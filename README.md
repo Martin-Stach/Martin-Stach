@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Martin-Stach)
+
 
 <!--
 **MartinP-S/MartinP-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 
+### I'm Martin Stach
+
+
+- 🖥️ I've been coding in TS primarily for over the past 4 years and have some C# and Java experience
+- 🌱 I’m currently learning on boot.dev, HackTheBox and TryHackMe
+- 💬 I'm also interessted in 3D-Printing, Chess and Running
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/martin-stach/)
+
+![](https://komarev.com/ghpvc/?username=Martin-Stach)
